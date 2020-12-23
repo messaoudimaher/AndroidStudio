@@ -1,0 +1,316 @@
+<resources>
+    <string name="app_name">TP03.2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="recipes">
+        <item>Chicken Sandwich</item>
+        <item>Easy Meatloaf</item>
+        <item>World Best Lasagna</item>
+        <item>Juicy Roasted Chicken</item>
+        <item>Cardamom Maple Salmon</item>
+        <item>Al Burmese Chicken Curry</item>
+        <item>Instant Pot® Vegan Korma</item>
+    </string-array>
+
+    <string-array name="short_description">
+        <item>I tried to make a copycat Popeyes® fried chicken sandwich and ended up with a hybrid between that and the one from Chick-fil-A®. So you get the best of both worlds and what\'s more, this DIY version never runs out, not even on Sundays.</item>
+        <item>This is a very easy and no fail recipe for meatloaf. It won\'t take long to make at all, and it\'s quite good!</item>
+        <item>It takes a little work, but it is worth it.</item>
+        <item>My grandmother\'s recipe for roasted chicken. We are German and she used to do it this way all the time. I never have had a chicken this juicy before; this little trick works and makes the people eating it go silent. It\'s funny. We nibble on the celery after.</item>
+        <item>I am a salmon lover. This is a great recipe for a slightly exotic flavor of Indian inspiration with a maple twist. The flavor is exceptional, delicious, and unique. Orange zest may be added for an extra flavor twist.</item>
+        <item>A chicken curry with the balanced elements of spicy and sour with the traditional flavors of Southeast Asia. Serve with basmati rice. This will taste even better if you leave it for a day or two before eating.</item>
+        <item>Spicy and flavorful vegan korma made in an Instant Pot®. There is a bit of preparation as with any korma, but cooking time is reduced, which helps free up time in the kitchen as well as saving the integrity of the ingredients. The result is a dish with larger pieces of vegetables you can sink your teeth into. This is best served with naan bread or brown basmati rice.</item>
+    </string-array>
+    <string-array name="description">
+        <item>I tried to make a copycat Popeyes® fried chicken sandwich and ended up with a hybrid between that and the one from Chick-fil-A®. So you get the best of both worlds and what\'s more, this DIY version never runs out, not even on Sundays.\n
+\n
+        	Nutrition Info\n\n
+Prep:
+20 mins\n
+Cook:
+5 mins\n
+Additional:
+2 hrs 15 mins\n
+Total:
+2 hrs 40 mins\n
+Servings:
+4\n
+Yield:
+4 sandwiches\n\n
+        	Ingredients\n\n
+        	Marinade:\n
+
+1 cup buttermilk\n
+
+2 teaspoons kosher salt\n
+
+1 dash hot sauce, or to taste\n
+
+1 tablespoon dry ranch dressing mix (such as Hidden Valley Ranch®)\n
+
+4 (5 ounce) skinless, boneless chicken breast halves\n
+Breading:\n
+
+1 ⅓ cups all-purpose flour\n
+
+2 tablespoons cornstarch\n
+
+2 teaspoons kosher salt\n
+
+½ teaspoon freshly ground black pepper\n
+
+1 ½ teaspoons cayenne pepper (Optional)\n
+
+1 tablespoon dry ranch dressing mix (such as Hidden Valley Ranch®)\n
+Wash:\n
+
+1 large egg, beaten\n
+
+½ cup buttermilk\n
+
+¼ cup milk\n
+The Rest:\n
+
+canola oil for frying\n
+
+4 soft hamburger buns, toasted and buttered\n
+
+6 tablespoons mayonnaise, or to taste\n
+
+12 dill pickle slices, or to taste\n
+        </item>
+        <item>This is a very easy and no fail recipe for meatloaf. It won\'t take long to make at all, and it\'s quite good!\n
+\n
+        	Nutrition Info\n\n
+Prep:
+10 mins\n
+Cook:
+1 hr\n
+Total:
+1 hr 10 mins\n
+Servings:
+8\n
+Yield:
+8 servings\n\n
+        	Ingredients\n\n
+        	1 ½ pounds ground beef\n
+
+1 egg\n
+
+1 onion, chopped\n
+
+1 cup milk\n
+
+1 cup dried bread crumbs\n
+
+salt and pepper to taste\n
+
+2 tablespoons brown sugar\n
+
+2 tablespoons prepared mustard\n
+
+⅓ cup ketchup\n
+        </item>
+        <item>It takes a little work, but it is worth it.\n\n
+
+        	Nutrition Info\n\n
+Prep:
+30 mins\n
+Cook:
+2 hrs 30 mins\n
+Additional:
+15 mins\n
+Total:
+3 hrs 15 mins\n
+Servings:
+12\n
+Yield:
+12 servings\n\n
+        	Ingredients\n\n
+        	1 pound sweet Italian sausage\n
+
+¾ pound lean ground beef\n
+
+½ cup minced onion\n
+
+2 cloves garlic, crushed\n
+
+1 (28 ounce) can crushed tomatoes\n
+
+2 (6 ounce) cans tomato paste\n
+
+2 (6.5 ounce) cans canned tomato sauce\n
+
+½ cup water\n
+
+2 tablespoons white sugar\n
+
+1 ½ teaspoons dried basil leaves\n
+
+½ teaspoon fennel seeds\n
+
+1 teaspoon Italian seasoning\n
+
+1 ½ teaspoons salt, divided, or to taste\n
+
+¼ teaspoon ground black pepper\n
+
+4 tablespoons chopped fresh parsley\n
+
+12 lasagna noodles\n
+
+16 ounces ricotta cheese\n
+
+1 egg\n
+
+¾ pound mozzarella cheese, sliced\n
+
+¾ cup grated Parmesan cheese\n
+        </item>
+        <item>My grandmother\'s recipe for roasted chicken. We are German and she used to do it this way all the time. I never have had a chicken this juicy before; this little trick works and makes the people eating it go silent. It\'s funny. We nibble on the celery after.\n
+\n
+        	Nutrition Info\n\n
+        	Prep:
+10 mins\n
+Cook:
+1 hr 15 mins\n
+Additional:
+15 mins\n
+Total:
+1 hr 40 mins\n
+Servings:
+6\n
+Yield:
+6 servings\n\n
+        	Ingredients\n\n
+
+        	1 (3 pound) whole chicken, giblets removed\n
+
+salt and black pepper to taste\n
+
+1 tablespoon onion powder, or to taste\n
+
+½ cup margarine, divided\n
+
+1 stalk celery, leaves removed\n
+        </item>
+        <item>I am a salmon lover. This is a great recipe for a slightly exotic flavor of Indian inspiration with a maple twist.
+            The flavor is exceptional, delicious, and unique. Orange zest may be added for an extra flavor twist.\n\n
+Nutrition Info\n\n
+        	Prep:
+15 mins\n
+Cook:
+10 mins\n
+Total:
+25 mins\n
+Servings:
+6\n
+Yield:
+6 servings\n\n
+
+Ingredients\n\n
+1 ½ teaspoons salt\n
+
+1 teaspoon paprika\n
+
+1 teaspoon ground cardamom\n
+
+1 teaspoon ground coriander\n
+
+½ teaspoon ground black pepper\n
+
+¼ cup grapeseed oil\n
+
+2 tablespoons maple syrup\n
+
+1 (2 pound) salmon fillet, cut into 3-inch pieces\n
+        </item>
+
+
+        <item>A chicken curry with the balanced elements of spicy and sour with the traditional flavors of Southeast Asia. Serve with basmati rice. This will taste even better if you leave it for a day or two before eating.\n
+        \n	Nutrition Info\n\n
+        	Prep:
+20 mins\n
+Cook:
+2 hrs 40 mins\n
+Total:
+3 hrs\n
+Servings:
+6\n
+Yield:
+6 servings\n
+\n
+Ingredients\n\n
+
+1 teaspoon butter, or as needed\n
+8 shallots, thinly sliced\n
+3 tablespoons red curry paste, or more to taste\n
+2 tablespoons hot curry powder\n
+1 tablespoon ground red chile pepper\n
+2 ½ pounds chicken thighs\n
+1 lemongrass, smashed and cut into 1-inch pieces\n
+10 bird\'s eye chile peppers, chopped, or to taste\n
+1 tablespoon ground coriander\n
+2 kaffir lime leaves, or to taste\n
+3 tablespoons fish sauce\n
+water to cover\n
+1 (14 ounce) can coconut milk\n
+4 tomatoes, quartered\n
+½ small bunch fresh cilantro, chopped, or to taste\n
+        </item>
+
+
+        <item>Spicy and flavorful vegan korma made in an Instant Pot®. There is a bit of preparation as with any korma,
+            but cooking time is reduced, which helps free up time in the kitchen as well as saving the integrity of the ingredients.
+            The result is a dish with larger pieces of vegetables you can sink your teeth into. This is best served with naan bread or brown basmati rice. \n\n
+        Nutrition Info	\n\n
+Prep:
+30 mins\n
+Cook:
+15 mins\n
+Additional:
+10 mins\n
+Total:
+55 mins\n
+Servings:
+4\n
+Yield:
+4 servings\n\n
+Ingredients\n\n
+1 red onion, quartered, divided\n
+1 green bird\'s eye chile pepper, stemmed\n
+½ cup water, divided\n
+¼ cup raw cashews\n
+2 cloves garlic\n
+2 tablespoons tomato paste\n
+1 (1 inch) piece fresh ginger\n
+5 whole cloves\n
+3 green cardamom pods\n
+1 black cardamom pod\n
+1 bay leaf\n
+1 teaspoon cumin seeds\n
+¼ teaspoon whole black peppercorns\n
+¼ teaspoon ground coriander\n
+¼ inch cinnamon stick\n
+¼ cup light vegetable oil\n
+8 ¾ ounces cauliflower, cut into large pieces\n
+5 ¼ ounces broccoli, cut into large pieces\n
+2 tomatoes, cut into large chunks\n
+1 cup canned chickpeas (garbanzo beans), drained with liquid reserved\n
+1 carrot, sliced\n
+1 red bird\'s eye chile pepper, chopped\n
+½ tablespoon garam masala\n
+½ teaspoon ground turmeric\n
+¼ teaspoon chili powder\n
+1 cup baby spinach leaves\n
+1 cup full-fat coconut milk\n
+½ cup vegan yogurt\n
+2 ounces roasted cashews, chopped\n
+½ cup chopped fresh cilantro\n
+        </item>
+    </string-array>
+
+</resources>
